@@ -1,4 +1,3 @@
-import pandas as pd
 from datetime import datetime, timedelta
 
 def generateLastDaysPaths(date, days):
